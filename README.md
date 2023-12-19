@@ -4,7 +4,7 @@ Estudos de Kotlin na plataforma [DIO](web.dio.me)
 ## Cursos
 - Conhecendo o Kotlin e Sua Documentação Oficial ✅
 - Introdução Prática à Linguagem de Programação Kotlin ✅
-- Estruturas de Controle de Fluxo em Kotlin
+- Estruturas de Controle de Fluxo e coleções em Kotlin
 - Orientação a Objetos e Tipos de Classes na Prática com Kotlin
 - O Poder das Funções em Kotlin
 - Tratamento de Exceções em Kotlin
