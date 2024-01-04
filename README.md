@@ -13,5 +13,5 @@ Estudos de Kotlin na plataforma [DIO](web.dio.me)
 - Criando uma Api Rest com Kotlin e Persistência de Dados
 
 ## Projetos
-- Abstraindo Formações da DIO Usando Orientação a Objetos com Kotlin
+- [Abstraindo Formações da DIO Usando Orientação a Objetos com Kotlin](https://github.com/otonielnn/aprenda-kotlin-com-exemplos-lab) ✅
 - Documentando e Testando sua API Rest com Kotlin
