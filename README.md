@@ -14,4 +14,4 @@ Estudos de Kotlin na plataforma [DIO](web.dio.me)
 
 ## Projetos
 - [Abstraindo Formações da DIO Usando Orientação a Objetos com Kotlin](https://github.com/otonielnn/aprenda-kotlin-com-exemplos-lab) ✅
-- [Documentando e Testando sua API Rest com Kotlin](https://github.com/otonielnn/Credit-Application-System)
+- [Documentando e Testando sua API Rest com Kotlin](https://github.com/otonielnn/Credit-Application-System) ✅
